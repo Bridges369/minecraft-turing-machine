@@ -1,2 +1,2 @@
-tellraw @a {"text":"loaded!"}
-
+# CONFIRM LOADE
+tellraw @a {"text":"<#> datapack loaded!","color":"gold"}

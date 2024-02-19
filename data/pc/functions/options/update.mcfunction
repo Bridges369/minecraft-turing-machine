@@ -12,5 +12,6 @@ function pc:options/update/controller
 
 
 # end process
+setblock 25 0 -5 air
 kill @e[name="#InputExchanger"]
 kill @e[name="#TapeExchanger"]

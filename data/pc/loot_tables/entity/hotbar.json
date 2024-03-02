@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:lectern"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:white_wool"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:black_wool"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:glass"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:target"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:magenta_glazed_terracotta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

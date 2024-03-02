@@ -24,4 +24,3 @@ scoreboard players set #state_instructions_limit OptRun 16
 
 # CONFIRM LOAD
 tellraw @a {"text":"<#> datapack loaded!","color":"gold"}
-#########################################################

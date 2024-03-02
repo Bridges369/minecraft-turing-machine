@@ -1,6 +1,7 @@
 #> SCOREBOARDS <#
 
 ## objectives
+scoreboard objectives add Test dummy "Test"
 scoreboard objectives add Debug dummy "Debuger"
 scoreboard objectives add OptUpdate dummy "Option: update"
 scoreboard objectives add OptRun dummy "Option: run"
